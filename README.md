@@ -13,4 +13,4 @@ He says it's important for him to know the average monthly stock price, daily cl
 
 <img align="centre" alt="codeSTACKr | Tableau" width="49px" src="https://mactorrents.io/wp-content/uploads/2019/09/1567360414_224_excel_2016_for_mac_15_logo_icon.jpg" />       <img align="centre" alt="codeSTACKr | Tableau" width="49px" src="https://apps.joltteam.com/cdn/brikbuild/tableau-icon-pixel-art-5a5f5c4d755c41916225ab5e.brickImg.jpg" />
 
-### You can refer to [Visualization](https://public.tableau.com/profile/yash.rao#!/vizhome/TeslaInterStockPricebyyashrao/Dashboard)
+### You can refer [Visualization](https://public.tableau.com/profile/yash.rao#!/vizhome/TeslaInterStockPricebyyashrao/Dashboard)
