@@ -8,4 +8,4 @@ He says that he would like to see any trends of the stock price specifically for
 
 He says it's important for him to know the average monthly stock price, daily closing figuresand volume of stock traded.
 
-#### Solved by using Tableau[<img align="centre" alt="codeSTACKr | Tableau" width="22px" src="https://apps.joltteam.com/cdn/brikbuild/tableau-icon-pixel-art-5a5f5c4d755c41916225ab5e.brickImg.jpg" />]
+#### Solved by using Tableau[<img align="centre" alt="codeSTACKr | Tableau" width="29px" src="https://apps.joltteam.com/cdn/brikbuild/tableau-icon-pixel-art-5a5f5c4d755c41916225ab5e.brickImg.jpg" />]
