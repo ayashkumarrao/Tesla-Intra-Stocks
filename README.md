@@ -1,6 +1,6 @@
 # Tesla-Intra-Stocks
 
-![Logos](https://www.pngfind.com/pngs/m/24-245028_tesla-logo-tesla-motors-hd-png-download.png)
+![Logos](https://www.carlogos.org/car-logos/tesla-logo-2200x2800.png)
 
 ### Problem Statement 
 Tesla is an American electric vehicle and clean energy company. An important shareholder is tired of receiving only monthly updates of the stock price.
