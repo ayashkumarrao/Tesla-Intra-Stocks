@@ -9,4 +9,4 @@ He says that he would like to see any trends of the stock price specifically for
 He says it's important for him to know the average monthly stock price, daily closing figuresand volume of stock traded.
 
 #### Solved by using Tableau 
-<img align="centre" alt="codeSTACKr | Tableau" width="69px" src="https://xebialabs.com/wp-content/uploads/files/tool-chest/excel.jpg" /><img align="centre" alt="codeSTACKr | Tableau" width="49px" src="https://apps.joltteam.com/cdn/brikbuild/tableau-icon-pixel-art-5a5f5c4d755c41916225ab5e.brickImg.jpg" />
+<img align="centre" alt="codeSTACKr | Tableau" width="69px" src="https://mactorrents.io/wp-content/uploads/2019/09/1567360414_224_excel_2016_for_mac_15_logo_icon.jpg" /><img align="centre" alt="codeSTACKr | Tableau" width="49px" src="https://apps.joltteam.com/cdn/brikbuild/tableau-icon-pixel-art-5a5f5c4d755c41916225ab5e.brickImg.jpg" />
