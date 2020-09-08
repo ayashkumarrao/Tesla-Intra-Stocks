@@ -1,6 +1,6 @@
 # Tesla-Intra-Stocks
 
-![Logos](https://www.tesla.com/sites/default/files/blog_images/tesla_announcement_social.jpg)
+![Logos](https://joyridecars.org/wp-content/uploads/2017/10/Tesla-Logo-1.png)
 
 ### Problem Statement 
 Tesla is an American electric vehicle and clean energy company. An important shareholder is tired of receiving only monthly updates of the stock price.
