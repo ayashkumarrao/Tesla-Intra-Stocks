@@ -1,3 +1,5 @@
+![Tableau](https://img.shields.io/badge/Tool-Tableau-yellowgreen) ![Status](https://img.shields.io/badge/Status-Completed-success) ![DA](https://img.shields.io/badge/Data-Analytics-ff69b4)
+
 # Tesla-Intra-Stocks
 
 ![Logos](https://joyridecars.org/wp-content/uploads/2017/10/Tesla-Logo-1.png)
